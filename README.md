@@ -1,5 +1,8 @@
 # Wholesale Customer Segmentation 🛒
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Phantom-Coder11/Wholesale-Customer-Segmentation/blob/main/Wholesale_Customers.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Phantom-Coder11/Wholesale-Customer-Segmentation/blob/main/Wholesale_Customers.ipynb)
+
 This repository demonstrates an end-to-end Unsupervised Machine Learning pipeline for segmenting B2B wholesale customers based on their annual spending behaviors. By identifying distinct purchasing patterns, businesses can tailor their marketing, supply chain, and service strategies.
 
 ## 🎯 Business Objective
